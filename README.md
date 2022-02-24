@@ -12,7 +12,13 @@ SG_SENDER_NAME=
 SG_SUBJECT=
 ```
 
-3. Run the script.
+3. Install all dependencies.
+
+```bash
+npm install
+```
+
+3. Run the script to send email using SendGrid.
 
 ```bash
 node index.js
