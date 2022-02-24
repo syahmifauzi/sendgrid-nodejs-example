@@ -1,6 +1,6 @@
 ## 🚀 Quick Start
 
-1. Sgin in to SendGrid, create New Sender, & generate API key.
+1. Sign in to SendGrid, create New Sender, & generate API key.
 2. Create `.env` file & insert all the credentials.
 
 ```
